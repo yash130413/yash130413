@@ -80,19 +80,6 @@ My primary interests are **backend engineering**, **REST API development**, **cl
 
 ---
 
-# 💡 What I'm Currently Working On
-
-- 🚀 Scalable Backend Systems
-- ☁️ Cloud Deployment with AWS
-- 🤖 AI-powered Applications
-- 📦 Production Ready REST APIs
-- 🧠 System Design Fundamentals
-
----
-
-
----
-
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -151,17 +138,6 @@ src="https://raw.githubusercontent.com/yash130413/yash130413/output/github-contr
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
----
-
-# 🎯 2026 Goals
-
-- 🚀 Build impactful full-stack applications
-- ☁️ Strengthen cloud engineering skills
-- 📚 Master Data Structures & Algorithms
-- 🧠 Learn scalable system design
-- 🌍 Contribute to open source
-- 💼 Secure a Software Engineering Internship
 
 ---
 
