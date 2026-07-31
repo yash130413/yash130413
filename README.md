@@ -46,9 +46,35 @@ My primary interests are **backend engineering**, **REST API development**, **cl
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,react,html,css,tailwind,bootstrap,nodejs&perline=11" />
+### Languages
 
-<img src="https://skillicons.dev/icons?i=express,flask,fastapi,mongodb,mysql,aws,linux,git,github,postman,vscode&perline=11" />
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,linux,git,github,postman,vscode" />
+</p>
 
 </div>
 
