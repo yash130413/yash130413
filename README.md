@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Yash Rohilla**
+# 👋 Hi, I’m
 
 <div align="center">
 
