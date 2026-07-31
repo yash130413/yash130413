@@ -86,7 +86,7 @@ My primary interests are **backend engineering**, **REST API development**, **cl
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yash130413&show_icons=true&theme=one_dark_pro&hide_border=true&rank_icon=github"/>
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=yash130413&theme=one_dark_pro&hide_border=true"/>
+<img height="170em" src="https://streak-stats.demolab.com/?user=yash130413&theme=one_dark_pro&hide_border=true"/>
 
 </div>
 
