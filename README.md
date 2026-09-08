@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,30:6D28D9,60:7C3AED,100:9333EA&text=Yash%20Rohilla&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=fadeIn&desc=Backend%20Focused%20Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,30:6D28D9,60:7C3AED,100:9333EA&text=Yash%20Rohilla&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Backend+Focused+Full+Stack+Developer;Building+Scalable+Web+Applications;React+%7C+Node.js+%7C+MongoDB+%7C+AWS;REST+API+Developer;AI+Powered+Solutions"/>
 
