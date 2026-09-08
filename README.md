@@ -26,7 +26,7 @@
 
 ## 💫 About Me
 
-Backend-Focused **Full Stack Developer** and **Computer Science undergraduate** at **Bennett University**. I enjoy building scalable web applications, designing secure backend systems, and deploying production-ready solutions on the cloud.
+**Full Stack Developer** and **Computer Science undergraduate** at **Bennett University**. I enjoy building scalable web applications, designing secure backend systems, and deploying production-ready solutions on the cloud.
 
 My primary interests are **backend engineering**, **REST API development**, **cloud deployment**, and **AI-powered applications**. I focus on writing maintainable code, optimizing performance, and solving real-world problems through software.
 
